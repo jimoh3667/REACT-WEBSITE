@@ -1,0 +1,87 @@
+.footer {
+  
+  background-color: rgba(230, 17, 17, 0.46);
+  width: Fixed (1,280px);
+  height: Hug (402px);
+  top: 3403px;
+  padding: 30px, 0px, 30px, 0px;
+  gap: 86px;
+  color: white;
+  align-items: center;
+  justify-content: center;
+}
+.inputwithbutton {
+  position: relative;
+  height: 100px;
+  width: 200px;
+  margin-left: 400px;
+
+}
+.inputwithbutton input{
+  width: fixed(411px);
+  height: fixed(70px);
+  top: 302px;
+  left: 434.5px;
+  padding: 8px 15px 8px 15px;
+  border-radius: 18px;
+  gap: 8px;
+  background: rgba(255, 255, 255, 1);
+  border-color: transparent;
+  box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.25);
+
+
+}
+.inputwithbutton button {
+  position: absolute;
+  width: fixed(185px);
+  height: fixed(70px);
+  right: 0;
+  top: 0;
+  padding: 8px 15px 8px 15px;
+  color: white;
+  background-color: red;
+  border-radius: 18px;
+  gap: 8px;
+  box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.25);
+  border-color: transparent;
+}
+.qq {
+  
+  justify-items: center;
+  align-items: center;
+  width: Hug (1,119px);
+  height: Hug (186px);
+  gap: 286px;
+
+  
+}
+.f2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: Hug (482px);
+  height: Hug (181px);
+  gap: 91px;
+  margin-bottom: 100px;
+
+}
+.f2 li {
+  margin-top: 2px;
+  align-items: center;
+  justify-content: space-around;
+  list-style: none;
+}
+
+
+.bliss img { 
+  width: 57px;
+  height: 47px;
+  
+}
+.fot2 {
+  width: 90%;
+  margin: 1rem auto;
+}
+
+
+
